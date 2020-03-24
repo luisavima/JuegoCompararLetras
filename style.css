@@ -1,0 +1,45 @@
+body {
+    background-color: rgb(247, 186, 206);
+    color: black;
+}
+
+h1,
+h2 {
+    color: palevioletred;
+    text-align: center;
+}
+
+p,
+label {
+    color: black;
+    text-align: center;
+    display: block;
+    margin: auto;
+    font-size: large;
+    margin-top: 20px;
+    font-size: 20px;
+}
+
+img {
+    display: block;
+    margin: auto;
+    border-radius: 15px;
+    border-color: violet;
+}
+
+button {
+    background-color: palevioletred;
+    border-color: white;
+    font-size: large;
+    color: black;
+    display: block;
+    margin: auto;
+    border-radius: 15px;
+}
+
+input {
+    display: block;
+    margin: auto;
+    margin-top: 20px;
+    background-color: palevioletred;
+}
